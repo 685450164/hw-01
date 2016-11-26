@@ -1,0 +1,28 @@
+blockquote{
+    color:blue;
+}
+
+h1{
+    color:rgba(0,0,0,0.5);
+}
+
+strong{
+    color: #f00;
+}
+
+p{
+    color: navy;
+}
+
+blockquote{
+    color:#fff;
+    background-color: gold;
+}
+
+td{
+    color:rgba(255, 0, 255, 0.5);
+}
+
+th[colspan="4"]{
+    font-size: 40px;
+}
